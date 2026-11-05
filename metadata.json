@@ -1,0 +1,6 @@
+{
+  "name": "Best E-com Profit & Loss Report For Platform & Reporting",
+  "description": "Unified e-commerce management suite and monthly reports for order delivery, product returns, pending payments, and inventory control.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
